@@ -8,7 +8,7 @@
     Returns: None
 """
 
-
+import shutil
 def rmdir(dir):
 		shutil.rmtree(dir)
 		print("Removed directory")
