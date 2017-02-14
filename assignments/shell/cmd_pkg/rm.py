@@ -8,7 +8,7 @@
         file(string) - Path of file to be removed that is given as argument.
     Returns: None
 """ 
-	
+import os	
 def rm(file):
 		os.remove(file)
 		print("file removed successfully")
