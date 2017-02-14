@@ -8,6 +8,6 @@
         output_file(String) - Path of destination file.
     Returns: None
 """ 
-
+import shutil
 def cp(input_file,output_file):
 		shutil.copy(input_file,output_file)
