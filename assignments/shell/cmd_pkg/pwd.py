@@ -1,5 +1,4 @@
 
-
 """
     Name: pwd
     Description:
@@ -10,4 +9,4 @@
 """
 	
 def pwd():
-		print(os.getcwd())
+	print(os.getcwd())
