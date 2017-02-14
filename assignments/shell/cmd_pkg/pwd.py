@@ -7,6 +7,6 @@
         None
     Returns: None
 """
-	
+import os	
 def pwd():
 	print(os.getcwd())
