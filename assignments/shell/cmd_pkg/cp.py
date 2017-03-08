@@ -1,4 +1,3 @@
-
 """
     Name: cp
     Description:
@@ -9,5 +8,9 @@
     Returns: None
 """ 
 import shutil
+
 def cp(input_file,output_file):
+	try:
 		shutil.copy(input_file,output_file)
+	except Exception as e:
+		print("\n"+str(e))
