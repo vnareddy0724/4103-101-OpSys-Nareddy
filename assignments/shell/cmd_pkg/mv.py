@@ -1,5 +1,4 @@
 
-
 """
     Name: mv
     Description:
@@ -11,4 +10,7 @@
 """ 
 import shutil
 def mv(input_file,output_file):
+	try:
 		shutil.move(input_file,output_file)
+	except Exception as e:
+		print("\n"+str(e))	
