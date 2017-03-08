@@ -1,4 +1,3 @@
-
 """
     Name: rmdir
     Description:
@@ -10,5 +9,8 @@
 
 import shutil
 def rmdir(dir):
+	try:
 		shutil.rmtree(dir)
 		print("Removed directory")
+	except Exception as e:
+		print("\n"+str(e))
