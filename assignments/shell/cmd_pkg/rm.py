@@ -1,5 +1,4 @@
 
-
 """
     Name: rm
     Description:
@@ -10,6 +9,8 @@
 """ 
 import os	
 def rm(file):
+	try:
 		os.remove(file)
 		print("file removed successfully")
-		
+	except FileNotFoundError as e:
+		print("\n"+str(e))	
