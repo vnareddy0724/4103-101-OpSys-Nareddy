@@ -1,1 +1,944 @@
 
+Event : ATime :100
+Event : ATime :120
+Event : ATime :122
+Event : ATime :130
+Event : ATime :131
+This job exceeds the system's main memory capacity.
+Event : ATime :136
+Event : ATime :145
+Event : ATime :150
+Event : ATime :157
+This job exceeds the system's main memory capacity.
+Event : ATime :161
+Event : ATime :170
+Event : ATime :181
+Event : ATime :188
+Event : ATime :190
+Event : ATime :195
+Event : ATime :201
+Event : ATime :260
+Event : ATime :267
+This job exceeds the system's main memory capacity.
+Event : ATime :271
+Event : ATime :278
+Event : ATime :300
+Event : ATime :306
+Event : ATime :309
+Event : ATime :313
+Event : ATime :351
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time
+-----  ---------
+4						100			8
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+The Second Level Ready Queue is empty.
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+4			269			8
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+There are412blocks of main memory available in the system.
+Event : ATime :401
+Event : ATime :404
+Event : ATime :410
+Event : ATime :417
+Event : ATime :423
+Event : ATime :450
+Event : ATime :467
+Event : ATime :470
+Event : ATime :474
+Event : ATime :480
+Event : ATime :499
+Event : ATime :508
+Event : ATime :511
+Event : ATime :516
+Event : ATime :519
+Event : ATime :524
+Event : ATime :537
+Event : ATime :545
+Event : ATime :566
+Event : ATime :574
+Event : ATime :580
+Event : ATime :583
+This job exceeds the system's main memory capacity.
+Event : ATime :586
+Event : ATime :590
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time
+-----  ---------
+10						499			16
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+The Second Level Ready Queue is empty.
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+10			568			16
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+There are13blocks of main memory available in the system.
+Event : ATime :602
+Event : ATime :611
+Event : ATime :616
+Event : ATime :621
+Event : ATime :627
+Event : ATime :632
+Event : ATime :635
+Event : ATime :641
+Event : ATime :649
+Event : ATime :653
+Event : ATime :660
+Event : ATime :664
+Event : ATime :670
+Event : ATime :674
+Event : ATime :678
+Event : ATime :681
+Event : ATime :690
+Event : ATime :694
+Event : ATime :711
+This job exceeds the system's main memory capacity.
+Event : ATime :723
+This job exceeds the system's main memory capacity.
+Event : ATime :734
+Event : ATime :743
+Event : ATime :746
+Event : ATime :752
+Event : ATime :773
+Event : ATime :881
+Event : ATime :886
+Event : ATime :891
+Event : ATime :914
+Event : ATime :934
+Event : ATime :939
+Event : ATime :941
+This job exceeds the system's main memory capacity.
+Event : ATime :969
+Event : ATime :972
+Event : ATime :999
+Event : ATime :1004
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time
+-----  ---------
+17						25			41
+19						232			90
+20						102			47
+21						123			43
+22						1			1
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+The Second Level Ready Queue is empty.
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+17			956			41
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+There are29blocks of main memory available in the system.
+Event : ATime :1031
+Event : ATime :1034
+Event : ATime :1036
+Event : ATime :1039
+Event : ATime :1045
+Event : ATime :1048
+Event : ATime :1054
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time
+-----  ---------
+55						43			38
+56						16			107
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+37						89			104
+39						14			98
+40						17			901
+41						43			372
+42						39			299
+43						78			133
+44						6			1
+45						9			156
+46						1			99
+47						20			304
+49						30			241
+50						61			92
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+55			7042			38
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+There are46blocks of main memory available in the system.
+Event : ATime :7072
+Event : ATime :7179
+Event : ATime :7400
+Event : ATime :7423
+Event : ATime :7463
+Event : ATime :7470
+This job exceeds the system's main memory capacity.
+Event : ATime :7500
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time
+-----  ---------
+58						89			357
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+40						17			901
+41						43			372
+42						39			299
+43						78			133
+44						6			1
+45						9			156
+46						1			99
+47						20			304
+49						30			241
+50						61			92
+56						16			7
+57						91			69
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+58			7500			357
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+There are12blocks of main memory available in the system.
+Event : ATime :7635
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+The First Level Ready Queue is empty.
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+40						17			690
+41						43			372
+42						39			299
+43						78			133
+44						6			1
+45						9			156
+46						1			99
+47						20			304
+49						30			241
+50						61			92
+56						16			7
+57						91			69
+58						89			300
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+40			5647			690
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+There are12blocks of main memory available in the system.
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+The First Level Ready Queue is empty.
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+57						91			56
+58						89			300
+40						17			601
+41						43			72
+59						37			670
+47						20			4
+60						123			474
+63						24			892
+64						49			661
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+57			7303			56
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+42						39			299			5847			8498
+43						78			133			5947			8730
+44						6			1			6047			8731
+45						9			156			6147			8887
+46						1			99			6247			8986
+49						30			241			6447			9527
+61						10			34			9627			9661
+50						61			92			6547			9752
+62						23			36			9752			9788
+56						16			7			7100			9994
+There are19blocks of main memory available in the system.
+The contents of SEMAPHORE ZERO
+------------------------------
+The value of semaphore 0 is1
+The wait queue for semaphore 0 is 0
+The contents of SEMAPHORE ONE
+-----------------------------
+The value of semaphore 1 is 1
+The wait queue for semaphore 1 is0
+The contents of SEMAPHORE TWO
+-----------------------------
+The value of semaphore 2 is1
+The wait queue for semaphore 2 is 0
+The contents of SEMAPHORE THREE
+-------------------------------
+The value of semaphore 3 is 1
+The wait queue for semaphore 3 is0
+The contents of SEMAPHORE FOUR
+------------------------------
+The value of semaphore 4 is 1
+The wait queue for semaphore 4 is 0
+The contents of the FIRST LEVEL READY QUEUE
+-------------------------------------------
+The First Level Ready Queue is empty.
+The contents of the SECOND LEVEL READY QUEUE
+	-------------------------------------------
+The Second Level Ready Queue is empty.
+The contents of the I/O WAIT QUEUE
+	----------------------------------
+The I/O Wait Queue is empty.
+The CPU  Start Time  CPU burst time left
+-------  ----------  -------------------
+CPU is idle
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+42						39			299			5847			8498
+43						78			133			5947			8730
+44						6			1			6047			8731
+45						9			156			6147			8887
+46						1			99			6247			8986
+49						30			241			6447			9527
+61						10			34			9627			9661
+50						61			92			6547			9752
+62						23			36			9752			9788
+56						16			7			7100			9994
+57						91			69			7303			10063
+58						89			300			7500			10363
+41						43			72			5747			10735
+47						20			4			6347			11039
+60						123			174			9527			12713
+40						17			1			5647			13314
+59						37			70			8498			13384
+63						24			292			9788			13676
+64						49			61			9888			13737
+65						501			39			13737			13776
+66						398			10			13776			13786
+67						302			52			13786			14237
+68						511			113			14237			14749
+71						30			74			14749			14823
+72						51			129			14823			15051
+73						499			44			15051			15095
+74						509			1			15095			16095
+75						34			92			16095			16187
+76						34			62			16187			16249
+78						23			43			16349			16392
+80						11			33			16492			16525
+81						3			2			16525			16527
+83						12			69			16527			16596
+84						44			99			16596			16695
+85						95			34			16695			16729
+79						41			204			16392			17432
+87						83			134			16829			17866
+86						168			133			16729			18899
+90						12			54			18999			19053
+91						10			57			19053			19110
+93						2			3			19210			19213
+94						2			32			19213			19245
+95						32			12			19245			19257
+96						20			19			19257			19276
+89						423			30			18899			19605
+99						10			1			19805			19806
+101						40			21			19806			19827
+102						12			13			19827			19840
+92						4			1			19110			19844
+98						22			1			19705			20445
+97						54			92			19605			20837
+77						33			23			16249			21460
+There are512blocks of main memory available in the system.
+The contents of the FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+42						39			299			5847			8498
+43						78			133			5947			8730
+44						6			1			6047			8731
+45						9			156			6147			8887
+46						1			99			6247			8986
+49						30			241			6447			9527
+61						10			34			9627			9661
+50						61			92			6547			9752
+62						23			36			9752			9788
+56						16			7			7100			9994
+57						91			69			7303			10063
+58						89			300			7500			10363
+41						43			72			5747			10735
+47						20			4			6347			11039
+60						123			174			9527			12713
+40						17			1			5647			13314
+59						37			70			8498			13384
+63						24			292			9788			13676
+64						49			61			9888			13737
+65						501			39			13737			13776
+66						398			10			13776			13786
+67						302			52			13786			14237
+68						511			113			14237			14749
+71						30			74			14749			14823
+72						51			129			14823			15051
+73						499			44			15051			15095
+74						509			1			15095			16095
+75						34			92			16095			16187
+76						34			62			16187			16249
+78						23			43			16349			16392
+80						11			33			16492			16525
+81						3			2			16525			16527
+83						12			69			16527			16596
+84						44			99			16596			16695
+85						95			34			16695			16729
+79						41			204			16392			17432
+87						83			134			16829			17866
+86						168			133			16729			18899
+90						12			54			18999			19053
+91						10			57			19053			19110
+93						2			3			19210			19213
+94						2			32			19213			19245
+95						32			12			19245			19257
+96						20			19			19257			19276
+89						423			30			18899			19605
+99						10			1			19805			19806
+101						40			21			19806			19827
+102						12			13			19827			19840
+92						4			1			19110			19844
+98						22			1			19705			20445
+97						54			92			19605			20837
+77						33			23			16249			21460
+103						1			1			21460			21461
+There are512blocks of main memory available in the system.
+The contents of the Final FINISHED LIST
+---------------------------------
+Job #  Arr. Time  Mem. Req.  Run Time  Start Time  Com. Time
+-----  ---------  ---------  --------  ----------  ---------
+1						20			78			100			178
+2						60			90			178			268
+3						1			1			268			269
+4						100			100			269			369
+6						512			99			369			468
+7						200			2			468			470
+8						20			98			470			568
+10						499			40			568			608
+11						401			79			608			687
+12						11			90			687			777
+13						9			66			777			843
+14						5			20			843			863
+15						1			70			863			933
+16						69			23			933			956
+17						25			100			956			1056
+19						232			90			1056			1146
+20						102			47			1146			1193
+21						123			43			1193			1236
+22						1			1			1236			1237
+23						100			99			1237			1336
+24						179			23			1336			1359
+25						342			59			1359			1418
+26						58			1			1418			1718
+27						125			100			1518			2017
+28						3			230			1618			2346
+30						20			24			1818			2670
+31						70			130			2017			2800
+29						340			299			1718			3399
+32						184			300			3399			4098
+33						500			1			4098			4798
+35						432			50			4898			5447
+36						37			103			4998			6749
+51						56			88			6749			6837
+34						19			1			4798			6837
+52						105			72			6837			6909
+53						89			99			6909			7008
+54						21			34			7008			7042
+55						43			58			7042			7100
+37						89			104			5447			7303
+39						14			98			5547			7500
+42						39			299			5847			8498
+43						78			133			5947			8730
+44						6			1			6047			8731
+45						9			156			6147			8887
+46						1			99			6247			8986
+49						30			241			6447			9527
+61						10			34			9627			9661
+50						61			92			6547			9752
+62						23			36			9752			9788
+56						16			7			7100			9994
+57						91			69			7303			10063
+58						89			300			7500			10363
+41						43			72			5747			10735
+47						20			4			6347			11039
+60						123			174			9527			12713
+40						17			1			5647			13314
+59						37			70			8498			13384
+63						24			292			9788			13676
+64						49			61			9888			13737
+65						501			39			13737			13776
+66						398			10			13776			13786
+67						302			52			13786			14237
+68						511			113			14237			14749
+71						30			74			14749			14823
+72						51			129			14823			15051
+73						499			44			15051			15095
+74						509			1			15095			16095
+75						34			92			16095			16187
+76						34			62			16187			16249
+78						23			43			16349			16392
+80						11			33			16492			16525
+81						3			2			16525			16527
+83						12			69			16527			16596
+84						44			99			16596			16695
+85						95			34			16695			16729
+79						41			204			16392			17432
+87						83			134			16829			17866
+86						168			133			16729			18899
+90						12			54			18999			19053
+91						10			57			19053			19110
+93						2			3			19210			19213
+94						2			32			19213			19245
+95						32			12			19245			19257
+96						20			19			19257			19276
+89						423			30			18899			19605
+99						10			1			19805			19806
+101						40			21			19806			19827
+102						12			13			19827			19840
+92						4			1			19110			19844
+98						22			1			19705			20445
+97						54			92			19605			20837
+77						33			23			16249			21460
+103						1			1			21460			21461
+There are512blocks of main memory available in the system.
+The Average Turnaround Time for the simulation was 7908.339805825242
+The Average Job Scheduling Wait Time for the simulation was 6645.126213592233
+Event : ATime :22001
