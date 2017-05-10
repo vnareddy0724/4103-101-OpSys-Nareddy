@@ -14,7 +14,7 @@ Date: 9 May 2017
 #
 
 ### Participation Pie Chart: 
-![Vahini Nareddy](./piechart.png)
+![Vahini Nareddy](./pie.png)
 
 
 
