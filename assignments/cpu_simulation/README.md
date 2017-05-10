@@ -11,7 +11,8 @@ Date: 9 May 2017
 |Potharlanka, Vuha Sri  | vuhasri1995@gmail.com  | vuhasri1995 |
 |Yallapragada, Kartik   | kartik.yallapragada@gmail.com | kyallapragada |
 
-  
+#
+
 ### Participation Pie Chart: 
 
 
@@ -26,8 +27,10 @@ Calculating Start Time,Completion Time, Turn Around Time, Average  wait Time Spe
 ### Yallapragada, Kartik:
 Worked on Printing Display Status and Few Functionality of New Process 
 ### Time spent working on project: 10 days
+
 ### Files in project:
-    ###       Files
+| Files    |
+|----------|
 simulation.py
 accounting.py
 clock.py
